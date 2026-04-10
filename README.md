@@ -23,7 +23,7 @@
 * Real-time hardware filtering
 * Simulation + PCB design
 
-👉 [View Project](https://github.com/neemasuresh/neemasuresh.github.io/blob/master/fpga-fir-filter.md)
+👉 [View Project](https://neemasuresh.github.io/projects/fpga-fir-filter/)
 
 ---
 
@@ -33,7 +33,7 @@
 * Optocoupler isolation
 * LCD display
 
-👉 [View Project](https://github.com/neemasuresh/neemasuresh.github.io/blob/master/ac-frequency-measurement.md)
+👉 [View Project](https://neemasuresh.github.io/projects/ac-frequency-measurement/)
 
 ---
 
