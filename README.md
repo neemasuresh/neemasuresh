@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Neema Suresh
 
-<!--
-**neemasuresh/neemasuresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Tech in VLSI & Embedded Systems
+💡 Passionate about FPGA, DSP & Embedded Design
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🔹 Real-Time Digital Filter for Ultrasonic NDT
+
+* FPGA-based FIR filtering for ultrasonic signals
+* Single-board embedded system
+* Real-time signal processing
+
+👉 [View Project](https://github.com/neemasuresh/neemasuresh.github.io/blob/master/ultrasonic-ndt-filter.md)
+
+---
+
+### 🔹 FPGA-Based Signal Conditioning using FIR LPF
+
+* Verilog-based FIR filter
+* Real-time hardware filtering
+* Simulation + PCB design
+
+👉 [View Project](https://github.com/neemasuresh/neemasuresh.github.io/blob/master/fpga-fir-filter.md)
+
+---
+
+### 🔹 AC Mains Frequency Measurement using STM32
+
+* Timer input capture
+* Optocoupler isolation
+* LCD display
+
+👉 [View Project](https://github.com/neemasuresh/neemasuresh.github.io/blob/master/ac-frequency-measurement.md)
+
+---
+
+## 🛠 Skills
+
+* Verilog HDL
+* STM32 (Embedded C)
+* FPGA Design (Cyclone 10 LP)
+* Signal Processing (FIR Filters)
+* PCB Design (Altium)
+
+---
+
+## 📫 Connect with Me
+
+* 📧 Email: (add your email)
+* 🔗 LinkedIn: (add link)
+
+---
