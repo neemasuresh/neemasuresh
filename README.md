@@ -49,7 +49,6 @@
 
 ## 📫 Connect with Me
 
-* 📧 Email: (add your email)
-* 🔗 LinkedIn: (add link)
+* 🔗 LinkedIn: ((https://www.linkedin.com/in/neemasuresh/))
 
 ---
